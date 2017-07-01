@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
